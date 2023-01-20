@@ -28,23 +28,23 @@
 Simply as any other Vim plugins: download manually or follow the standard procedure of your plugin manager:
 * [Vundle](https://github.com/gmarik/vundle)
  ```vim
- Plugin 'tomasiser/vim-code-dark'
+ Plugin 'estefanionsantos/vim-code-dark'
  ```
 * [vim-plug](https://github.com/junegunn/vim-plug)
 ```vim
-Plug 'tomasiser/vim-code-dark'
+Plug 'estefanionsantos/vim-code-dark'
 ```
 * [builtin package manager](https://vimhelp.org/repeat.txt.html#packages)
 ```bash
 # Regular Vim
 mkdir -p ~/.vim/pack/themes/start
 cd ~/.vim/pack/themes/start
-git clone https://github.com/tomasiser/vim-code-dark
+git clone https://github.com/estefanionsantos/vim-code-dark
 
 # Neovim
 mkdir -p ~/.local/share/nvim/site/pack/themes/start
 cd ~/.local/share/nvim/site/pack/themes/start
-git clone https://github.com/tomasiser/vim-code-dark
+git clone https://github.com/estefanionsantos/vim-code-dark
 ```
 
 ### 2) Enable in `.vimrc`
