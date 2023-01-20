@@ -351,8 +351,8 @@ call <sid>hi('jsonNull', s:cdBlue, {}, 'none', {})
 call <sid>hi('jsonBoolean', s:cdBlue, {}, 'none', {})
 
 " HTML:
-call <sid>hi('htmlTag', s:cdGray, {}, 'none', {})
-call <sid>hi('htmlEndTag', s:cdGray, {}, 'none', {})
+call <sid>hi('htmlTag', s:cdBlue, {}, 'none', {})
+call <sid>hi('htmlEndTag', s:cdBlue, {}, 'none', {})
 call <sid>hi('htmlTagName', s:cdBlue, {}, 'none', {})
 call <sid>hi('htmlSpecialTagName', s:cdBlue, {}, 'none', {})
 call <sid>hi('htmlArg', s:cdLightBlue, {}, 'none', {})
